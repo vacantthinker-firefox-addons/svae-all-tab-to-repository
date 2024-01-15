@@ -1,1 +1,10 @@
-# svae-all-tab-to-repository
+
+# first
+```shell
+npm install
+```
+
+# second
+```shell
+node tmp.js
+```
